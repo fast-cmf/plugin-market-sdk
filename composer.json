@@ -11,6 +11,12 @@
     ],
     "license": "MIT",
     "type": "library",
+    "authors": [
+        {
+            "name": "OpenFrame",
+            "homepage": "https://github.com/openframe"
+        }
+    ],
     "require": {
         "php": "^8.3",
         "ext-sodium": "*",
